@@ -4005,11 +4005,12 @@
 			padding: 0;
 		}
 
-		#banner p {
+		banner p {
 			color: #fff;
 			font-size: 1.0em;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
+			
 		}
 
 		#banner .icon {
